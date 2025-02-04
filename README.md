@@ -1,10 +1,10 @@
 # TeachPrivateLessonsProject
 
 ## Overview
-## Java Spring Boot
 ### The idea is to connect professors and students for private lessons. Professors can offer lessons to students, and students can also share their knowledge by giving lessons to their colleagues within various institutions. The project emphasizes flexibility and accessibility, creating a collaborative learning environment.
 
 ## Full Code is on master branch.
+- This is back-end part. The front-end is on TeachPrivateLessonsFrontEnd repo.
 
 ## Models
 ### User – Manages user data and roles.
@@ -26,3 +26,7 @@
 ## REST Controllers
 ### Provides RESTful APIs for front-end integration with a React application.
 
+## Technologies Used
+### Backend: Java Spring Boot
+### Database: PostgreSQL
+### Security: Spring Security for authentication and role-based authorization
